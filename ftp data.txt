@@ -1,0 +1,13 @@
+user : epiz_33189005
+ftp: ftpupload.net
+pass: cQjrv9igEytV
+
+BDD
+host: sql306.epizy.com
+name: epiz_33189005_store
+
+
+
+LIEN_SITE: http://store-tp.epizy.com
+
+LIEN BDD : https://app.infinityfree.net/

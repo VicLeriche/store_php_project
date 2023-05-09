@@ -1,0 +1,42 @@
+Résumé: Boutique de vente en ligne,
+        il s'agit d'un site E-commerce de vente des produits en ligne
+
+but:attirer un maximun des clients sur le site,fidéliser les clients afin d'efectuer un maximun de vente,
+
+
+fontionnalité attendues: 
+gestion de pannier
+gestion des produits
+gestion des utilisateurs
+processus d'achat (avoir un compte avant de payer)
+
+Jeu de données
+users
+	-nom
+	-prenom
+	-email
+	-adresse
+	-ville
+	-cp
+	-tel
+
+products
+	-name
+	-price
+	-desc
+	-image
+	-promo (optionnel)
+	-quantity 
+	
+purchases
+	-useId
+	-prodId
+
+
+
+Frontend
+	-site 
+
+Backend
+	-api
+	-bdd
