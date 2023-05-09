@@ -24,10 +24,10 @@ const DB = [
     ],
     "prod"=>[
         'BDD_SGBD'        => 'mysql',
-        'BDD_DATABASE'    => 'epiz_33189005_store',
+        'BDD_DATABASE'    => 'epiz_34173740_store',
         'BDD_HOST'        => 'sql306.epizy.com',
-        'BDD_PASSWORD'    => 'cQjrv9igEytV',
-        'BDD_USER'        => 'epiz_33189005',
+        'BDD_PASSWORD'    => 'nGhmNsiVs4',
+        'BDD_USER'        => 'epiz_34173740',
     ]
 ];
 
