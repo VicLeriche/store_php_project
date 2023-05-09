@@ -3,8 +3,8 @@
  * fichier de configuration qui déclare toutes les constantes utilisées dans les classes
 **/
 
-//const ENV = "dev";
 const ENV = "dev";
+//const ENV = "prod";
 
 // global
 const SITE_ROOT 	= '';
